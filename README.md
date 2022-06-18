@@ -23,7 +23,7 @@
 
 # Sobre
 
-O Le bot é uma tecnologia está sendo desenvolvido para servidores do discord que une o público interessado em **criptomoedas e mercado finaceiro**. <br>
+O Le bot está sendo desenvolvido para servidores do discord relacionados á  **criptomoedas,mercado finaceiro** e afins. <br>
 A ideia surgiu quando me vi particpando de um servidor sobre **Mercado Forex**, porém o mesmo não tinha nenhum bot que entragasse informações simples sobre criptomoedas, oscilações no mercado financeiro e outras informações. <br>
 
 
