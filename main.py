@@ -7,6 +7,6 @@ bot = commands.Bot("!")
 
 
 bot.load_extension("commands.talks")
-bot.load_extension("commands.crypto")
+bot.load_extension("commands.finance")
 TOKEN = config("TOKEN")
 bot.run(TOKEN)

@@ -4,7 +4,7 @@ class Talks(commands.Cog):
         """Talks with user"""
         self.bot = bot
     #Essecomando é só pra ter uma mensagem de boas vindas
-    @commands.command(name="oi", help = "Envia um oi")
+    @commands.command(name="oi", help = "Envia um oi e orienta o usuário")
     async def send_oi(self, ctx):
 
         name = ctx.author.name
