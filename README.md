@@ -54,7 +54,7 @@ Retorna o preço de um par de criptomoedas com base nos preços da API do Binanc
 </h3> 
 
 # Tecnologias
-**Liguagen(s)**
+**Linguagen(s)**
 * Python
 
 **Biblioteca(s)**
